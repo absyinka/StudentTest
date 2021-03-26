@@ -1,0 +1,16 @@
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\Umar.exe
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\Umar.deps.json
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\Umar.runtimeconfig.json
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\Umar.runtimeconfig.dev.json
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\Umar.dll
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\ref\Umar.dll
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\Umar.pdb
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.csprojAssemblyReference.cache
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.AssemblyInfoInputs.cache
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.AssemblyInfo.cs
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.csproj.CoreCompileInputs.cache
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.dll
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\ref\Umar.dll
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.pdb
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.genruntimeconfig.cache
