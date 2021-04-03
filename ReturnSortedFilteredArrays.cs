@@ -34,7 +34,7 @@ namespace Umar
 
         }
 
-        public static void CapitalizeFirstLetterOfEachWord002(string argsSentence)
+        public static void CapitalizeFirstLetterOfEachWord(string argsSentence)
         {
             //In Case if the entire string is in UpperCase then convert it into lower
             argsSentence = argsSentence.ToLower();
@@ -51,7 +51,7 @@ namespace Umar
             }
 
             // Scan through the letters, checking for spaces.
-            // ... Uppercase the lowercase letters following spaces.
+            // Make the letters following the spaces uppercase character.
             for (int i = 1; i < characterArray.Length; i++)
             {
                 if (characterArray[i - 1] == ' ')

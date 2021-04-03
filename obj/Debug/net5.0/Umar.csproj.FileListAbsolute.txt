@@ -14,3 +14,5 @@ C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.dll
 C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\ref\Umar.dll
 C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.pdb
 C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.genruntimeconfig.cache
+C:\Users\JODA\Documents\CSharpDemo\Umar\bin\Debug\net5.0\Humanizer.dll
+C:\Users\JODA\Documents\CSharpDemo\Umar\obj\Debug\net5.0\Umar.csproj.CopyComplete
