@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2dNGIBtQbdjd0sCDRO1E61xSQyCpOIwLKFsu/zZWjJdKT/u3SacIlkiCBxVkLDAzR98uFRJdpzb1SI8AL4JI2w==",
+  "dgSpecHash": "6Sdb8Y49VzuVBw98VgUtGCCaXC6YNZRYrh9pVDGjSr/GVtglYI+3r514sHU3pOlSDb4cIlKuTXG5G0HzBvOmlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JODA\\Documents\\CSharpDemo\\Umar\\Umar.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\StudentTest\\Umar.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JODA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
   ],
   "logs": []
 }

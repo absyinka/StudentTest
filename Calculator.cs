@@ -4,7 +4,48 @@ namespace Umar
 {
     class Calculator
     {
-        private double CalculatorEngine(double argNumber1, double argNumber2, string argOperation)
+		public void CalculatorInputs()
+		{
+			try
+			{
+				bool flag = true;
+
+				do
+				{
+					Console.Write("Enter your first number: ");
+					double firstInput = InputConverter.ConvertInputToNumeric(Console.ReadLine());
+
+					Console.Write("Enter your operator: ");
+					string arithmeticOperator = Console.ReadLine();
+
+					Console.Write("Enter your second number: ");
+					double secondInput = InputConverter.ConvertInputToNumeric(Console.ReadLine());
+
+					var output = CalculatorEngine(firstInput, secondInput, arithmeticOperator);
+
+					Console.WriteLine(output);
+
+					string continueOption = string.Empty;
+					do
+					{
+						Console.Write("Do you want to continue Y/N: ");
+						continueOption = Console.ReadLine();
+
+					} while (continueOption != "y" && continueOption != "n");
+
+					flag = continueOption == "y";
+
+				} while (flag);
+
+			}
+			catch (Exception ex)
+			{
+				Console.WriteLine(ex.Message);
+			}
+
+		}
+
+		private double CalculatorEngine(double argNumber1, double argNumber2, string argOperation)
         {
             double result;
 
@@ -35,47 +76,6 @@ namespace Umar
             }
 
             return result;
-        }
-
-        public void CalculatorInputs()
-        {
-            try
-            {
-                bool flag = true;
-
-                do
-                {
-                    Console.Write("Enter your first number: ");
-                    double firstInput = Convert.ToDouble(Console.ReadLine());
-
-                    Console.Write("Enter your operator: ");
-                    string arithmeticOperator = Console.ReadLine();
-
-                    Console.Write("Enter your second number: ");
-                    double secondInput = Convert.ToDouble(Console.ReadLine());
-
-                    var output = CalculatorEngine(firstInput, secondInput, arithmeticOperator);
-
-                    Console.WriteLine(output);
-
-                    string continueOption = string.Empty;
-                    do
-                    {
-                        Console.Write("Do you want to continue Y/N: ");
-                        continueOption = Console.ReadLine();
-
-                    } while (continueOption != "y" && continueOption != "n");
-
-                    flag = continueOption == "y";
-
-                } while (flag);
-
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-
         }
     }
 }
